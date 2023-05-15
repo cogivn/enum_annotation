@@ -1,13 +1,13 @@
 name: enum_annotation
 description: Annotations for the enum_generator code generator package.
-version: 0.0.2
+version: 0.0.4
 repository: https://github.com/cogivn/enum-generator
 documentation: https://github.com/cogivn/enum-generator
 issue_tracker: https://github.com/cogivn/enum-generator/issues
 homepage: https://cogi.vn
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
+  sdk: '>=2.19.5 <4.0.0'
 
 dev_dependencies:
   flutter_test:
